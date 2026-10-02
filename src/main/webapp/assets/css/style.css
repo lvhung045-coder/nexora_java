@@ -1,0 +1,7 @@
+
+/* Fix select option colors globally */
+select option {
+    color: #D4AF37 !important;
+    background-color: #111 !important;
+    font-weight: 500 !important;
+}
